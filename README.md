@@ -1,2 +1,1 @@
-# SRI SRI GYAAN
-Deploy-ready Streamlit bot.
+# Full SRI SRI GYAAN app (chat + dashboard)

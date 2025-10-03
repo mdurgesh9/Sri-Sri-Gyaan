@@ -1,3 +1,3 @@
-streamlit
-openai
-pillow
+streamlit>=1.37.0
+openai>=1.40.0
+pillow>=10.4.0
